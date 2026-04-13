@@ -1,0 +1,41 @@
+*{
+    padding: none;
+    margin: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#contain{
+    background-color: aqua;
+    width: 900px;
+    margin: auto;
+
+    text-align: center;
+
+}
+#title{
+    background-color: red;
+    width: 100%;
+    height: 200px;
+    float: left;
+    font-size: 110px;
+    
+
+}
+#title span{
+    color: gold;
+}
+.square{
+    float: left;
+    background-color: blue;
+    width:280px;
+    height: 200px;
+    margin: 10px;
+    font-size: 110px;
+    text-align: center;
+    color: white;
+}
+.square:hover{
+    background-color: black;
+
+}
